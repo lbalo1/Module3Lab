@@ -49,15 +49,17 @@ namespace Module3Lab.Pages
                 case 7:
                 case 8:
                 case 9:
+
                     EncouragementMessage = "Taco time!";
                     break;
                 case 4:
                 case 5:
                 case 6:
+                
                     EncouragementMessage = "Burrito it is!";
                     break;
                 default:
-                    EncouragementMessage = "Maybe just grab a snack.";
+                    EncouragementMessage = "Maybe just grab a snack...";
                     break;
             }
         }
